@@ -1,0 +1,50 @@
+# Site settings
+title: Hackerspirit
+email: shuimuyq@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hackerspirit
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://hackerspirit.org # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Hackerspirit
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+#twitter: suyan404
+#weibo: suyan0830
+github: willalways
+#instagram: suyan404
+#linkedin: suyan404
+
+# avatar and Favicon
+avatar: http://imgs.yansu.org/site-avatar.png
+favicon: http://imgs.yansu.org/site-favicon.ico
+
+# disqus config
+disqus:
+  shortname: hackerspirit-org
+
+# google analytics config
+#ga:
+#  id: UA-54767140-1
+#  url: yansu.org
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+

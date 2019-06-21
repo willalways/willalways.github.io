@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackerspirit</title>
+    <description>Hackerspirit
+</description>
+    <link>http://hackerspirit.org/</link>
+    <atom:link href="http://hackerspirit.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Jun 2019 16:44:42 +0800</pubDate>
+    <lastBuildDate>Fri, 21 Jun 2019 16:44:42 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>台湾清华大学公开课：数据结构</title>
+        <description>&lt;h2 id=&quot;公开课学习&quot;&gt;公开课学习&lt;/h2&gt;
+
+&lt;p&gt;前一段时间我系统学习了一遍来自台湾清华大学的韩永楷老师教授的数据结构课程&lt;/p&gt;
+
+&lt;p&gt;课程目录摘要&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;排序的方法和分析&lt;/li&gt;
+  &lt;li&gt;函数时间复杂度&lt;/li&gt;
+  &lt;li&gt;插入排序&lt;/li&gt;
+  &lt;li&gt;堆排序&lt;/li&gt;
+  &lt;li&gt;比较排序的时间复杂度&lt;/li&gt;
+  &lt;li&gt;基本数据结构（栈，队列）&lt;/li&gt;
+  &lt;li&gt;链表&lt;/li&gt;
+  &lt;li&gt;树&amp;amp;图&lt;/li&gt;
+  &lt;li&gt;广度优先遍历&lt;/li&gt;
+  &lt;li&gt;深度优先遍历&lt;/li&gt;
+  &lt;li&gt;树的遍历&lt;/li&gt;
+  &lt;li&gt;表达式树&amp;amp;后缀表达式&lt;/li&gt;
+  &lt;li&gt;中缀-后缀表达式转换&lt;/li&gt;
+  &lt;li&gt;拓扑排序&lt;/li&gt;
+  &lt;li&gt;二叉搜索树&lt;/li&gt;
+  &lt;li&gt;平衡二叉树&lt;/li&gt;
+  &lt;li&gt;B-树&lt;/li&gt;
+  &lt;li&gt;哈希&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://open.163.com/movie/2019/4/L/5/MEC1PGUO8_MEC1PQBL5.html&quot;&gt;台湾清华大学公开课：数据结构&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://hackerspirit.org/2019/06/21/%E5%8F%B0%E6%B9%BE%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%BC%80%E8%AF%BE-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html</link>
+        <guid isPermaLink="true">http://hackerspirit.org/2019/06/21/%E5%8F%B0%E6%B9%BE%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%BC%80%E8%AF%BE-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html</guid>
+        
+        
+        <category>软件工程</category>
+        
+      </item>
+    
+      <item>
+        <title>《代码整洁之道 程序员的职业素养》读书笔记</title>
+        <description>&lt;h2 id=&quot;第1章-专业主义&quot;&gt;第1章 专业主义&lt;/h2&gt;
+
+&lt;p&gt;程序员的”希波克拉底誓言”&lt;/p&gt;
+
+&lt;p&gt;1.1 清楚你要什么&lt;br /&gt;
+你是想做坚守“专业主义”的专业人士，还是一个混子&lt;/p&gt;
+
+&lt;p&gt;1.2 担当责任&lt;br /&gt;
+你要为你的专业担当责任&lt;/p&gt;
+
+&lt;p&gt;1.3 不行损害之事&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;不要破坏软件功能&lt;br /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;让QA找不出任何问题&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;要确信代码正常运行。并对代码进行100%的测试覆盖。&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;自动化QA&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;不要破坏结构。保证软件易于修改。很多人认为对上线运行的软件不断地做修改是危险的。错！让代码保持固定不变才是危险的！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1.4 坚守职业道德&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;一周有168小时，给你的雇主40小时，为自己的职业发展留20小时，剩下的108小时再留56小时给睡眠，那么还剩52小时可以做其他的事。&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;或许你不愿那么勤勉。没问题。只是那样的话你也不能自视为专业人士，因为所谓”术业有专攻”那也是需要投入时间去追求的。&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;了解你的领域
+    &lt;ul&gt;
+      &lt;li&gt;设计模式。必须能描述GOF书中全部24中模式，同时还要有POSA书中的多数模式的实战经验。&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;设计原则。必须了解SOLID原则 ，而且要深刻理解组件设计原则。&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;方法。必须理解XP、Scrum、精益、看板、瀑布、结构化分析及结构化设计等。&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;实践。必须掌握测试驱动开发、面向对象设计、结构化编程、持续集成和结对编程。&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;工件。必须了解如何使用UML图、DFD图、结构图、Petri网络图、状态迁移图表、流程图和决策图。&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;坚持学习&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;练习&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;合作&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;辅导&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;了解业务领域&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;与雇主／客户保持一致&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;谦逊&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;第2章-说不&quot;&gt;第2章 说”不”&lt;/h2&gt;
+
+&lt;p&gt;能就是能，不能就是不能，不要说试试看。
+专业人士敢于说明真相而不屈从于权势。专业人士有勇气对他们的经理说不。&lt;/p&gt;
+
+&lt;h2 id=&quot;第3章-说是&quot;&gt;第3章 说“是”&lt;/h2&gt;
+
+&lt;p&gt;在工作中做出真正的承诺。你对自己将做的某件事做了清晰的事实陈述，而且还明确说明了完成期限。
+做一名“严谨负责的开发人员”&lt;/p&gt;
+
+&lt;blockquote&gt;
+之所以没成功，是因为我寄希望于别人去做这件事。&lt;br /&gt;
+之所以没成功，是因为我不太确信是否真能完成得了。&lt;br /&gt;
+之所以没成功，是因为有些时候我真的无能为力。
+&lt;/blockquote&gt;
+
+&lt;p&gt;“代码必须经过测试，代码必须要有对应的测试代码。要确保代码清晰整洁，而且必须确保没有影响到系统的其他部分”
+作为专业开发人员就应该遵守和捍卫这些标准。如果是专业的开发人员，就不会放弃底线。
+专业人士不需要对所有请求都回答“是”。不过他们应该努力寻找创新的方法，尽可能做到有求必应。
+当专业人士给出肯定回答时，他们会使用正式的承诺，以确保各方能明白无误地理解承诺的内容。&lt;/p&gt;
+
+&lt;h2 id=&quot;第4章-编码&quot;&gt;第4章 编码&lt;/h2&gt;
+
+&lt;p&gt;要精熟掌握每项技艺，关键都是要具备”信心”和“出错感知”能力。
+“不要在凌晨3点写代码”。疲劳的时候，千万不要写代码。奉献精神和职业素养，更多意义上指要遵循纪律原则，
+而非成为长时间的工作狂。要确保自己已经将睡眠，健康和生活方式调整到最佳状态，这样才能做到在每天的8小时工作时间内全力以赴。&lt;/p&gt;
+
+&lt;p&gt;“不要在焦虑状态下写代码”&lt;/p&gt;
+
+&lt;p&gt;根据目标定期衡量进度，使用三个考虑到多种因素的期限：乐观预估，标称预估，悲观预估。
+并且要坚决维持你的估算！不要经受不住诱惑盲目冲刺。&lt;/p&gt;
+
+&lt;p&gt;接受他人的帮助
+如果帮助唾手可得却让自己一个人堵在那里，是很不专业的表现。&lt;/p&gt;
+
+&lt;p&gt;大家知道，程序员大多自负，固执，内向。&lt;/p&gt;
+
+&lt;h2 id=&quot;第5章-测试驱动开发&quot;&gt;第5章 测试驱动开发&lt;/h2&gt;
+
+&lt;p&gt;TDD三项法则&lt;br /&gt;
+1：除非是为了使一个失败的unit test通过，否则不允许编写任何产品代码。&lt;br /&gt;
+2：只要有一个单元测试失败了，就不要再写测试代码（无法通过编译也是失败情况）&lt;br /&gt;
+3：只允许编写刚好能够使一个失败的unit test通过的产品代码。&lt;/p&gt;
+
+&lt;h2 id=&quot;第6章-练习&quot;&gt;第6章 练习&lt;/h2&gt;
+
+&lt;p&gt;专业人士都需要通过专门训练提升自己的技能，无一例外。&lt;/p&gt;
+
+&lt;p&gt;现在我们有了更好的工具，更好的语言。可是，语句的本质并没有随着时间而改变。20世纪60年代的程序员
+完全可以看懂2012年的代码。我们真正打交道的东西，40年来没有多少改变。&lt;/p&gt;
+
+&lt;p&gt;卡塔联系网站&lt;br /&gt;
+http://codingdojo.org&lt;br /&gt;
+http://katas.softwarecraftsmanshi.org&lt;br /&gt;
+http://codekata.pragprog.com&lt;/p&gt;
+
+&lt;p&gt;职业程序员通常会受到一种限制，即解决问题的种类比较单一。老板通常只强调一种语言、一个平台，以及程序员的专门领域。经验不够丰富的程序员，履历和思维中都存在某种贻害无穷的盲区。经常可以看到这样的情景：程序员发现，面对行业的周期性变化造成的新局面，自己并没有做好准备。&lt;/p&gt;
+
+&lt;p&gt;保持不落伍的一种方法就是为开源项目贡献代码，就像律师和医生参加公益活动一样。程序员用自己的时间来练习，老板的职责不包括避免你的技术落伍，也不包括为你打造一份好看的履历。&lt;/p&gt;
+
+&lt;h2 id=&quot;第7章-验收测试&quot;&gt;第7章 验收测试&lt;/h2&gt;
+
+&lt;p&gt;开发方和业务方之间需求的沟通，应该避免 过早精细化以及过晚的模糊性。
+验收测试的目的在于确定需求已经完成。&lt;/p&gt;
+
+&lt;p&gt;相比于手动验收测试，自动化验收测试的成本更低
+自动化的验收测试工具有：FitNesse，Cucumber，cuke4duke，robot framework，Selenium&lt;/p&gt;
+
+&lt;p&gt;验收测试应该是QA身份的人的任务，QA指Quality Assurances，也就是质量保证。
+不仅仅要保证程序按预期方式运行，而且还要考虑误用例，和滥用例（misuse，abuse）&lt;/p&gt;
+
+&lt;p&gt;验收测试 vs 单元测试
+单元测试是深入系统内部进行，调用特定类的方法；
+验收测试则是在系统外部，通常是在API/UI级别进行。&lt;/p&gt;
+
+&lt;p&gt;几十年来，设计专家一直在教导我们，要把GUI和业务逻辑分开。
+所以对产品验收测试也应该 专门针对GUI的测试 以及 真的GUI背后的API进行。&lt;/p&gt;
+
+&lt;h2 id=&quot;第8章-测试策略&quot;&gt;第8章 测试策略&lt;/h2&gt;
+
+&lt;p&gt;开发小组要把“QA应该找不到任务错误”作为努力的目标。&lt;/p&gt;
+
+&lt;p&gt;自动化测试金字塔&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;测试模式&lt;/th&gt;
+      &lt;th&gt;测试主体&lt;/th&gt;
+      &lt;th&gt;负责人&lt;/th&gt;
+      &lt;th&gt;测试目的&lt;/th&gt;
+      &lt;th&gt;覆盖率&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;人工探索式测试&lt;/td&gt;
+      &lt;td&gt;滥用例，误用例测试&lt;/td&gt;
+      &lt;td&gt;项目负责人，测试人员：尽可能多的，各类人参与测试&lt;/td&gt;
+      &lt;td&gt;在验证预期行为之后，探索系统预期之外的行为&lt;/td&gt;
+      &lt;td&gt;5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;系统测试&lt;/td&gt;
+      &lt;td&gt;GUI&lt;/td&gt;
+      &lt;td&gt;系统架构师/技术负责人，测试目的：测试系统是否正确组装完毕，且系统间的交互是否符合预期&lt;/td&gt;
+      &lt;td&gt;不是要确保正确的系统行为，而是要确保正确的系统构造。一般使用和UI集成测试使用同样的语言和环境&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;集成测试&lt;/td&gt;
+      &lt;td&gt;API&lt;/td&gt;
+      &lt;td&gt;系统架构师/主设计师，测试目的：实际是装配测试，确认组件之间是否正确连接，彼此间通信是否畅通&lt;/td&gt;
+      &lt;td&gt;使用适当的模拟/测试辅助技术与其他组件解耦，此阶段可以进行性能测试和吞吐率测试&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;组件测试&lt;/td&gt;
+      &lt;td&gt;API&lt;/td&gt;
+      &lt;td&gt;QA/业务人员，测试目的：因为系统的组建封装了业务规则，所以对组件的测试就是对业务规则的验收测试&lt;/td&gt;
+      &lt;td&gt;组件间可能存在耦合关系，测试单一组件时，可能需要模拟/测试辅助技术，解开与系统其他组件间的耦合&lt;/td&gt;
+      &lt;td&gt;50%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;单元测试&lt;/td&gt;
+      &lt;td&gt;XUnit&lt;/td&gt;
+      &lt;td&gt;开发人员，测试目的：在最低层次上定义系统。&lt;/td&gt;
+      &lt;td&gt;单元测试将作为持续集成的一部分来运行，用以确保程序员的代码意图没有遭到破坏&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(开发人员应该遵从TDD模式，先编写测试，再编写产品代码)&lt;/p&gt;
+
+&lt;h2 id=&quot;第9章-时间管理&quot;&gt;第9章 时间管理&lt;/h2&gt;
+
+&lt;p&gt;关于会议，有两条真理&lt;br /&gt;  1：会议是必需的，&lt;br /&gt;  2：会议浪费了大量的时间。&lt;/p&gt;
+
+&lt;p&gt;参加的会议太多，其实只能证明你不够专业。你应该理智的使用时间，对会议必须谨慎的选择。&lt;/p&gt;
+
+&lt;p&gt;领导的最重要责任之一，就是帮你从某些会议脱身。好的领导一定会主动维护你拒绝出席的决定，因为他和你一样关心你的时间。&lt;/p&gt;
+
+&lt;p&gt;这些年来，我学到了一条简单的规则：“如果会议让人厌烦，就果断离席”&lt;/p&gt;
+
+&lt;p&gt;每个会议都应该关注 议程，会议时间和目标，如果会议偏离议程/议题，则应该指出。&lt;/p&gt;
+
+&lt;p&gt;站立会应该回答以下3个问题&lt;br /&gt;
+  1：我昨天干了什么&lt;br /&gt;
+  2：我今天打算干什么&lt;br /&gt;
+  3：我遇到了什么问题&lt;br /&gt;
+每个问题的回答时间不应当超过20秒，每个人的发言不超过1分钟。&lt;/p&gt;
+
+&lt;p&gt;敏捷开发 迭代计划会议 和 迭代回顾及DEMO展示技巧参看P106-P107&lt;/p&gt;
+
+&lt;p&gt;Kent Beck曾告诉我一个深刻的道理:“凡是不能在5分钟内解决的争论，都不能靠辩论解决。”
+争论之所以要花这么多时间，是因为各方都拿不出足够有力的证据。所以这类争论依据的不是事实，而是信念。&lt;/p&gt;
+
+&lt;p&gt;注意力点数
+如果自己察觉自己的注意力点数耗尽，就像游戏里的魔耗尽，要根据自己的恢复方式回魔，而后再投入到工作中，特别是编码工作&lt;/p&gt;
+
+&lt;p&gt;所有的软件开发者都要遇到死胡同。比如选择了走不通的技术道路。
+作为一个专业开发人员，就应该有足够的勇气走回头路，承认决策失误。
+这就是所谓的坑法则（The Rule of Holes):如果你掉进了坑里，别挖。&lt;/p&gt;
+
+&lt;p&gt;专业的开发人员相比于死胡同，应该更关注/恐惧泥潭。
+因为在泥潭中，你仍然可以看到前进的道路，而且看起来总是比走回头路更短（虽然实际不是这样）。&lt;/p&gt;
+
+&lt;h2 id=&quot;第10章-预估&quot;&gt;第10章 预估&lt;/h2&gt;
+
+&lt;p&gt;预估的实质：预估不是个定数，预估的结果是一种概率分布。
+比如预估任务需要多久完成，结果可能是这样
+第2天能完成的概率是10%
+第3天能完成的概率是50%
+第4天能完成的概率是20%
+第5天能完成的概率是10%
+第6天能完成的概率是5%
+所以说6天内能完成的概率是95%&lt;/p&gt;
+
+&lt;p&gt;预估任务的 乐观预估，标称预估，悲观预估时间可采用德尔菲法
+比如 亮手指，规划扑克，关联预估，三元预估等&lt;/p&gt;
+
+&lt;p&gt;大数定律
+把大任务分成许多小任务，分开预估再加总，结果会比单独预估大任务要准确。&lt;/p&gt;
+
+&lt;h2 id=&quot;第11章-压力&quot;&gt;第11章 压力&lt;/h2&gt;
+
+&lt;p&gt;专业开发人员应该避免对没有把握能够达到的最后期限做出承诺。
+如果是业务人员对客户做出了不切实际的承诺，专业开发人员应该尽力主动帮助业务方找到方法来兑现这些承诺，但是一定不能接受这些承诺。要明白，如果承诺无法兑现，责任应该由承诺的人承担。&lt;/p&gt;
+
+&lt;p&gt;快速前进确保最后期限的方法，便是保持整洁。专业人士不会为了快点前进而乱来。他们明白“快而脏”是自相矛盾的说法，脏乱只会导致缓慢。
+让系统，代码和设计尽可能整洁，就可以避免压力。这并非是说我们要花无穷无尽的时间去清理代码，而只是说不要容忍混乱。
+混乱会降低速度，导致工期延误，承诺失信。因此，要尽力保持输出成果整洁干净。&lt;/p&gt;
+
+&lt;p&gt;危机中的纪律
+观察自己在危机时刻中的反应，就可以了解自己的信念。如果在危机中依然遵循着你守持的纪律，就说明你确实相信那些纪律。反之，则说明你没认可那些纪律。
+比如TDD，保持代码设计整洁，结对工作等纪律，要刻在骨子里，变成原则，而不是压力情况下，这些原则全抛弃了。&lt;/p&gt;
+
+&lt;p&gt;依靠你的纪律原则
+在危机/压力时刻，不要惊慌失措地茫然四顾另寻依靠，而要从容不迫，专心致志地依靠你自己的纪律原则，这将帮你更快地走出困境。
+如果你遵循TDD，那么这时写的测试甚至要比平时多。
+如果你笃行无情的重构，这时就要更多的进行重构。
+如果你相信要保持函数尽量小，这时就要让函数变得更小。
+战胜压力煎熬的唯一方法，便是依靠那些你以及知道切实有效的东西，也就是你平时遵守的纪律。&lt;/p&gt;
+
+&lt;h2 id=&quot;第12章-协作&quot;&gt;第12章 协作&lt;/h2&gt;
+
+&lt;p&gt;我们并非是因为喜欢和其他人在一起工作才选择做程序员的。我们都认为人际关系难以应付而且毫无规律。编程用的机器则整洁，行为也可预见。
+如果可以一个人待在房间里数个小时沉浸在一些真正有趣的问题上，那将会是最开心的时光。
+虽然这么说有点以偏概全，但是整个群体的平均状况还是朝我所描述的方法发展。&lt;/p&gt;
+
+&lt;p&gt;专业开发人员应该结对工作，因为结对工作是分享知识最好途径，是复查代码最好的方式。&lt;/p&gt;
+
+&lt;p&gt;团队之前代码不应该筑起高墙，应该打破各种代码隔断，由整个团队共同拥有全部代码。&lt;/p&gt;
+
+&lt;h2 id=&quot;第13章-团队与项目&quot;&gt;第13章 团队与项目&lt;/h2&gt;
+
+&lt;p&gt;有凝聚力的团队确实有些神奇之处。他们能够一起创造奇迹。
+有凝聚力的团队通常有大约12名成员。由12个人组成的理想团队，人员配备情况是这样的：7名程序员、2名测试人员、2名分析师和1名项目经理。&lt;/p&gt;
+
+&lt;p&gt;形成团队需要时间。团队成员需要首先建立关系。他们需要学习如何互相协作，需要了解彼此的癖好、强项、弱项，最终，才能凝聚成团队。&lt;/p&gt;
+
+&lt;p&gt;团队和项目，何者为先？
+试图围绕项目来构建团队是一种愚蠢的做法。按照这种做法，团队永远都不可能形成凝聚力。
+专业的开发组织会把项目分配给已形成凝聚力的团队，而不会围绕着项目来组建团队。一个有凝聚力的团队能够同时承接多个项目，根据成员各自的意愿、技能和能力来分配工作，会顺利完成项目。&lt;/p&gt;
+
+&lt;p&gt;团队比项目更难构建。因此，组建稳健的团队，让团队在一个又一个项目中整体移动共同工作是较好的做法。并且，团队也可以同时承接多个项目。在组建团队时，要给予团队充足的时间，让他们形成凝聚力，一直共同工作，成为不断交付项目的强大引擎。&lt;/p&gt;
+
+&lt;p&gt;每个团队都有自己的速度。团队的速度是指在一定时间内团队内完成的任务量。
+有些团队用每周点数来衡量自己的速度，点数是一个抽象的概念，细粒度的度量单位
+比如每个团队每周的速度为 40点，如果一个任务总点数是120点，那么如果把此任务分配给这个团队，就可以预估要花三周时间才能完成。&lt;/p&gt;
+
+&lt;h2 id=&quot;第14章-辅导学徒期与记忆&quot;&gt;第14章 辅导，学徒期与记忆&lt;/h2&gt;
+
+&lt;p&gt;程序员应该和医生一样，毕业后到独当一面，应该有一个过渡时期
+比如医生从 毕业生 到 实习医生 到 住院实习期
+程序员也应该是从 毕业生 到 学徒/实习生 到 熟练工 到 大师
+熟练工应该作为学徒的导师，向学徒传授TDD，重构，估算等各类必备技艺
+学徒期至少应持续一年。期满之时，如果熟练工愿意接受学徒上升到他们这个层次，就把学徒推荐给大师们。
+大师们则通过面谈和水平检测，对学徒们进行考核校验。如果能够取得大师们的认可，那么学徒便可晋升为熟练工。&lt;/p&gt;
+
+&lt;p&gt;现实情况是大多数时候，学徒在公司都没有得到技术层面的督导。程序员的水平能否提升以及职位能不能晋升，全在于自己的表现。
+实际上这时不对的，在学徒的培养阶段，专业主义价值观和技术敏锐度需要进行不断的传授，培育，滋养和文火慢炖，直至其完全渗入文化当中。
+在一个技术导向公司，应该把上述 学徒的培养 融入到企业文化当中，而不是依赖于个别领导或核心人员的推动。&lt;/p&gt;
+
+&lt;p&gt;技艺是工匠所持有的精神状态，技艺的模因（meme）中包含价值观，原则，技术，态度和正见。
+应该让技艺的模因像传染病/传销一样，让这种精神病毒感染到所有观察到的人，落地生根。
+所谓近朱者赤近墨者黑，任何人应该能识别出哪些病毒是良性的，哪些是恶性的，应该主动去接近拥有良性病毒的大师/匠人，远离那些拥有恶性病毒的人。&lt;/p&gt;
+
+&lt;p&gt;学校能够传授的是计算机编程理论。但是学校并不会也无法传授作为一名编程匠者所需掌握的原则，实践和技能。这些东西只有经由师徒个体间多年的细心督导和辅导才能获得。
+软件行业中像我们这样的一批人必须要面对这一事实，即指引下一代软件开发人员成熟起来的重任无法寄希望于大学教育，现在这个重任已经落到了我们肩上。
+建立一种包含学徒期，实习期和长期指引的机制已是迫在眉睫。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://hackerspirit.org/2019/06/21/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB_%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%89%AF%E6%9C%AC.html</link>
+        <guid isPermaLink="true">http://hackerspirit.org/2019/06/21/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%81%8C%E4%B8%9A%E7%B4%A0%E5%85%BB_%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%89%AF%E6%9C%AC.html</guid>
+        
+        
+        <category>软件工程</category>
+        
+      </item>
+    
+      <item>
+        <title>自己制作树莓派启动盘</title>
+        <description>&lt;h2 id=&quot;所需材料&quot;&gt;所需材料&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1个存储介质，U盘/SD卡，存储容量不小于16G&lt;/li&gt;
+  &lt;li&gt;树莓派官方镜像，&lt;a href=&quot;https://www.raspberrypi.org/downloads/raspbian/&quot;&gt;传送门&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;step1-对存储介质分区&quot;&gt;Step1 对存储介质分区&lt;/h2&gt;
+&lt;p&gt;利用fdisk命令给存储介质分析，本例子存储介质为SD卡，分两个区，第一个分析存储boot信息，第二个分区为根目录分区&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    create 2 partition(boot and rootfs) by fdisk    (attention:  the rootfs must be the last partition)
+    Device         Boot  Start       End   Sectors  Size Id Type
+    /dev/mmcblk0p1        2048    526335    524288  256M  c W95 FAT32 (LBA)
+    /dev/mmcblk0p2      526336 124735487 124209152 59.2G 83 Linux
+
+    #mkfs.vfat /dev/mmcblk0p1
+    #mkfs.ext4 /dev/mmcblk0p2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;step2-把系统数据拷贝到存储介质&quot;&gt;Step2 把系统数据拷贝到存储介质&lt;/h2&gt;
+&lt;h3 id=&quot;查看树莓派官方镜像分区情况&quot;&gt;查看树莓派官方镜像分区情况&lt;/h3&gt;
+&lt;p&gt;通过fdisk -l 查看镜像分区情况&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #fdisk -l 2018-10-09-raspbian-stretch.img 
+    Disk 2018-10-09-raspbian-stretch.img: 3.9 GiB, 4135583744 bytes, 8077312 sectors
+    Units: sectors of 1 * 512 = 512 bytes
+    Sector size (logical/physical): 512 bytes / 512 bytes
+    I/O size (minimum/optimal): 512 bytes / 512 bytes
+    Disklabel type: dos
+    Disk identifier: 0x2ee8b6fe
+
+    Device                           Boot Start     End Sectors  Size Id Type
+    2018-10-09-raspbian-stretch.img1       8192   97890   89699 43.8M  c W95 FAT32 (LBA)
+    2018-10-09-raspbian-stretch.img2      98304 8077311 7979008  3.8G 83 Linux
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;计算分区偏移并挂载&quot;&gt;计算分区偏移并挂载&lt;/h3&gt;
+&lt;p&gt;首先把存储卡两个扇区挂载到本地目录&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #mount -t vfat /dev/mmcblk0p1 boot
+    #mount -t ext4 /dev/mmcblk0p2 rootfs
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;接下来把官方镜像分区内容拷贝到存储卡中&lt;/p&gt;
+
+&lt;p&gt;每个扇区512byte, 所以第一个分区从8192 * 512 = 4194304开始， 第二个分区从98304 * 512 = 50331648开始
+依次挂载官方镜像分区，并把内容拷贝到存储卡（通过挂载会出错，只能分开挂载）&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #mount -v -o offset=4194304 -t vfat 2018-10-09-raspbian-stretch.img img1
+    #cp -rav img1/* boot
+    umount img1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #mount -v -o offset=50331648 -t ext4 2018-10-09-raspbian-stretch.img img2
+    #cp -rav img2/* rootfs
+    umount img2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;step3-修改系统文件&quot;&gt;Step3 修改系统文件&lt;/h2&gt;
+&lt;h3 id=&quot;首先查看存储介质的分区uuid信息&quot;&gt;首先查看存储介质的分区UUID信息&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #blkid
+    /dev/mmcblk0p1: SEC_TYPE=&quot;msdos&quot; UUID=&quot;boot&quot; TYPE=&quot;vfat&quot; PARTUUID=&quot;xx31278f-01&quot;
+    /dev/mmcblk0p2: UUID=&quot;rootfs&quot; TYPE=&quot;ext4&quot; PARTUUID=&quot;xx31278f-02&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;修改boot分区的cmdlinetxt文件因为引导启动需要知道root分区的uuid&quot;&gt;修改boot分区的cmdline.txt文件，因为引导启动，需要知道root分区的UUID&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #vim boot/cmdline.txt
+    change from
+        root=PARTUUID=2ee8b6fe-02 
+    to 
+        root=PARTUUID=xx31278f-02
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;修改fstab文件让能正常挂载&quot;&gt;修改fstab文件，让能正常挂载&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    #vim rootfs/etc/fstab
+    change from
+        proc            /proc           proc    defaults          0       0
+        PARTUUID=2ee8b6fe-01  /boot           vfat    defaults          0       2
+        PARTUUID=2ee8b6fe-02  /               ext4    defaults,noatime  0       1
+    to
+        proc            /proc           proc    defaults          0       0
+        PARTUUID=xx31278f-01  /boot           vfat    defaults          0       2
+        PARTUUID=xx31278f-02  /               ext4    defaults,noatime  0       1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;自己制作树莓派启动盘的意义&quot;&gt;自己制作树莓派启动盘的意义&lt;/h2&gt;
+&lt;p&gt;在进行上述操作后，我对系统镜像的理解更加清晰了&lt;/p&gt;
+
+&lt;p&gt;DIY很有趣，自己可以定制系统，可以修改引导文件，可以修改内核文件&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://hackerspirit.org/2019/06/21/%E8%87%AA%E5%B7%B1%E5%88%B6%E4%BD%9C%E6%A0%91%E8%8E%93%E6%B4%BE%E5%90%AF%E5%8A%A8%E7%9B%98.html</link>
+        <guid isPermaLink="true">http://hackerspirit.org/2019/06/21/%E8%87%AA%E5%B7%B1%E5%88%B6%E4%BD%9C%E6%A0%91%E8%8E%93%E6%B4%BE%E5%90%AF%E5%8A%A8%E7%9B%98.html</guid>
+        
+        
+        <category>信息技术</category>
+        
+      </item>
+    
+      <item>
+        <title>PTES读书笔记</title>
+        <description>&lt;h1 id=&quot;penetration-testing-execution-standard&quot;&gt;penetration testing execution standard&lt;/h1&gt;
+
+&lt;h2 id=&quot;0x01-high-level-organization-of-the-standard&quot;&gt;0x01 High Level Organization of the Standard&lt;/h2&gt;
+
+&lt;p&gt;The penetration testing execution standard consists of seven (7) main sections. 
+These cover everything related to a penetration test.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;from the initial communication and reasoning behind a pentest,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;through the intelligence gathering and threat modeling phases where testers are working behind the scenes in order to get a better understanding of the tested organization,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;through vulnerability research, exploitation and post exploitation, where the technical security expertise of the testers come to play and combine with the business understanding of the engagement,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;and finally to the reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;0x02-pre-engagement-interactions&quot;&gt;0x02 Pre-engagement Interactions&lt;/h2&gt;
+
+&lt;h3 id=&quot;21-overview&quot;&gt;2.1 Overview&lt;/h3&gt;
+
+&lt;p&gt;Remember, a penetration test should not be confrontational. It should not be an activity to see if the tester can “hack” you. It should be about identifying the business risk associated with and attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;22-introduction-to-scope&quot;&gt;2.2 Introduction to Scope&lt;/h3&gt;
+
+&lt;p&gt;Neglecting to properly complete pre-engagement activities has the potential to open the penetration tester (or his firm) to a number of headaches including scope creep, unsatisfied customers, and even legal troubles.&lt;/p&gt;
+
+&lt;p&gt;The scope of a project specifically defines what is to be tested. How each aspect of the test will be conducted will be covered in the Rules of Engagement section.&lt;/p&gt;
+
+&lt;p&gt;One key component of scoping an engagement is outlining how the testers should spend their time.&lt;/p&gt;
+
+&lt;p&gt;It is important in the Pre-Engagement phase that the tester is able to serve as a guide through what may be uncharted territory for a customer.&lt;/p&gt;
+
+&lt;p&gt;The tester must understand the difference between a test which focuses on a single application with severe intensity and a test where the client provides a wide range of IP addresses to test and the goal is to simply find a way in.&lt;/p&gt;
+
+&lt;h3 id=&quot;23-metrics-for-time-estimation&quot;&gt;2.3 Metrics for Time Estimation&lt;/h3&gt;
+
+&lt;p&gt;Once the time to test is determined, it is a prudent practice to add 20% to the time.&lt;/p&gt;
+
+&lt;p&gt;Another component of the metrics of time and testing is that every project needs to have a definitive drop dead date.&lt;/p&gt;
+
+&lt;p&gt;All good projects have a well-defined beginning and end.&lt;/p&gt;
+
+&lt;h3 id=&quot;24-scoping-meeting&quot;&gt;2.4 Scoping Meeting&lt;/h3&gt;
+
+&lt;p&gt;The goal of the scoping meeting is to discuss what will be tested. Rules of engagement and costs will not be covered in this meeting.&lt;/p&gt;
+
+&lt;p&gt;First, it needs to be established explicitly what IP ranges are in scope for the engagement. It is not uncommon for a client to be resistant and assume that it is the prerogative of the tester to identify their network and attack it, to make the test as realistic as possible. This would indeed be an ideal circumstance, however, possible legal ramifications must be considered above all else.&lt;/p&gt;
+
+&lt;h3 id=&quot;25-additional-support-based-on-hourly-rate&quot;&gt;2.5 Additional Support Based on Hourly Rate&lt;/h3&gt;
+
+&lt;p&gt;Any requests outside of the original scope should be documented in the form of a statement of work that clearly identifies the work to be done. We also recommend that it be clearly stated in the contract that additional work will be done for a flat fee per hour and explicitly state that additional work can not be completed until a signed and counter-signed SOW is in place.&lt;/p&gt;
+
+&lt;h3 id=&quot;27-general-questions&quot;&gt;2.7 General Questions&lt;/h3&gt;
+
+&lt;p&gt;2.7.1 Network Penetration Test 
+2.7.2 Web Application Penetration Test 
+2.7.3 Wireless Network Penetration Test 
+2.7.4 Physical Penetration Test 
+2.7.5 Social Engineering 
+2.7.6 Questions for Business Unit Managers 
+2.7.7 Questions for Systems Administrators&lt;/p&gt;
+
+&lt;h3 id=&quot;28-scope-creep&quot;&gt;2.8 Scope Creep&lt;/h3&gt;
+
+&lt;p&gt;do not hesitate to ask for additional funding to compensate for the extra time spent. If a customer refuses to pay for the extra work, it is almost never worth staying on to do that work.&lt;/p&gt;
+
+&lt;p&gt;The second point is even more critical. When dealing with existing customers, take care to keep the prices lower. Taking advantage of a good situation by price gouging is a sure way to drive away repeat business.&lt;/p&gt;
+
+&lt;h3 id=&quot;29-specify-start-and-end-dates&quot;&gt;2.9 Specify Start and End Dates&lt;/h3&gt;
+
+&lt;p&gt;To mitigate this risk, add a simple statement to the contract which mentions that all retesting must be done within a certain timeframe after the final report delivery.&lt;/p&gt;
+
+&lt;h3 id=&quot;210-specify-ip-ranges-and-domains&quot;&gt;2.10 Specify IP Ranges and Domains&lt;/h3&gt;
+
+&lt;p&gt;Before starting a penetration test, all targets must be identified. These targets should be obtained from the customer during the initial questionnaire phase. Targets can be given in the form of specific IP addresses, network ranges, or domain names by the customer.&lt;/p&gt;
+
+&lt;h3 id=&quot;211-dealing-with-third-parties&quot;&gt;2.11 Dealing with Third Parties&lt;/h3&gt;
+
+&lt;p&gt;The most important thing to remember is that while permission may have been granted by the client, they do not speak for their third party providers. Thus, permission must be obtained from them as well in order to test the hosted systems. Failing to obtain the proper permissions brings with it, as always, the possibility of violating the law, which can cause endless headaches.&lt;/p&gt;
+
+&lt;p&gt;2.11.1 Cloud Services 
+2.11.2 ISP 
+2.11.3 MSSPs 
+        Managed Security Service Providers also may need to be notified of testing. 
+2.11.4 Countries Where Servers are Hosted&lt;/p&gt;
+
+&lt;h3 id=&quot;212-define-acceptable-social-engineering-pretexts&quot;&gt;2.12 Define Acceptable Social Engineering Pretexts&lt;/h3&gt;
+
+&lt;p&gt;Be sure that any pretexts chosen for the test are approved in writing before testing is to begin.&lt;/p&gt;
+
+&lt;h3 id=&quot;213-dos-testing&quot;&gt;2.13 DoS Testing&lt;/h3&gt;
+
+&lt;p&gt;Stress testing or Denial of Service testing should be discussed before the engagement begins.&lt;/p&gt;
+
+&lt;p&gt;if the organization is also worried about the availability of their services, then the stress testing should be conducted in a
+non-production environment which is identical to the production environment.&lt;/p&gt;
+
+&lt;h3 id=&quot;214-payment-terms&quot;&gt;2.14 Payment Terms&lt;/h3&gt;
+
+&lt;p&gt;2.14.1 Net 30
+The total amount is due within 30 days of the delivery of the final report. This is usually associated with a per month percentage penalty for non-payment. This can be any number of days you wish to grant your customers (i.e. 45, or 60).&lt;/p&gt;
+
+&lt;p&gt;2.14.2 Half Upfront
+It is not uncommon to require half of the total bill upfront before testing begins. This is very common for longer-term
+engagements.&lt;/p&gt;
+
+&lt;p&gt;2.14.3 Recurring
+A recurring payment schedule is more commonly used for long-term engagements. For example, some engagements may span as far as a year or two. It is not at all uncommon to have the customer pay in regular installments throughout the year.&lt;/p&gt;
+
+&lt;h3 id=&quot;215-goals&quot;&gt;2.15 Goals&lt;/h3&gt;
+
+&lt;p&gt;Every penetration test should be goal-oriented. This is to say that the purpose of the test is to identify specific vulnerabilities that lead to a compromise of the business or mission objectives of the customer. It is not about finding un-patched systems. It is about identifying risk that will adversely impact the organization.&lt;/p&gt;
+
+&lt;p&gt;2.15.1 Primary 
+The primary goal of a test should not be driven by compliance.&lt;/p&gt;
+
+&lt;p&gt;2.15.2 Secondary 
+The secondary goals are directly related to compliance.&lt;/p&gt;
+
+&lt;p&gt;2.15.3 Business Analysis 
+Before performing a penetration test it is beneficial to determine the maturity level of the client’s security posture 
+For customers with a very immature security program, it is often a good idea to perform a vulnerability analysis first.&lt;/p&gt;
+
+&lt;p&gt;Some testers believe there is a stigma surrounding Vulnerability Analysis (VA) work. Those testers have forgotten that the goal is to identify risks in the target organization, not about pursuing the so-called “rockstar” lifestyle. If a company is not ready for a full penetration test, they will get far more value out of a good VA than a penetration test.&lt;/p&gt;
+
+&lt;p&gt;Establish with the customer in advance what information about the systems they will be providing. It may also be helpful to ask for information about vulnerabilities which are already documented. This will save the testers time and save the client money by not overlapping testing discoveries with known issues. Likewise, a full or partial white-box test may bring the customer more value than a black-box test, if it isn’t absolutely required by compliance.&lt;/p&gt;
+
+&lt;h3 id=&quot;216-establish-lines-of-communication&quot;&gt;2.16 Establish Lines of Communication&lt;/h3&gt;
+
+&lt;p&gt;One of the most important aspects of any penetration test is communication with the customer. How often you interact with the customer, and the manner in which you approach them, can make a huge difference in their feeling of satisfaction.&lt;/p&gt;
+
+&lt;h3 id=&quot;217-emergency-contact-information&quot;&gt;2.17 Emergency Contact Information&lt;/h3&gt;
+
+&lt;p&gt;Obviously, being able to get in touch with the customer or target organization in an emergency is vital. Emergencies may arise, and a point of contact must have been established in order to handle them.&lt;/p&gt;
+
+&lt;p&gt;2.17.1 Incident Reporting Process 
+2.17.2 Incident Definition 
+2.17.3 Status Report Frequency 
+2.17.4 PGP and Other Alternatives&lt;/p&gt;
+
+&lt;h3 id=&quot;218-rules-of-engagement&quot;&gt;2.18 Rules of Engagement&lt;/h3&gt;
+
+&lt;p&gt;2.18.1 Timeline
+A clear timeline should be established for the engagement. While scope defines the start and the end of an engagement, the rules of engagement define everything in between.&lt;/p&gt;
+
+&lt;p&gt;GANTT Charts and Work Breakdown Structures are often used to define the work and the amount of time that each specific piece of the work will take. Seeing the schedule broken down in this manner aids those involved in identifying where resources need to be applied and it helps the customer identify possible roadblocks which many be encountered during testing&lt;/p&gt;
+
+&lt;p&gt;2.18.2 Locations
+Another parameter of any given engagement which is important to establish with the customer ahead of time is any destinations to which the testers will need to travel during the test. This could be as simple as identifying local hotels, or complex as identifying the applicable laws of a specific target country.&lt;/p&gt;
+
+&lt;p&gt;However, if the data cannot be physically or virtually obtained, how can it be proved that the testers indeed obtained access to the information? This problem has been solved in a number of ways. There are ways to prove that the vault door was opened without taking any of the money. For instance, a screenshot of database schema and file permissions can be taken, or the files themselves can be displayed without opening them to displaying the content, as long as no PII is visible in the filenames themselves.&lt;/p&gt;
+
+&lt;p&gt;2.18.3 Evidence Handling
+When handling evidence of a test and the differing stages of the report it is incredibly important to take extreme care with the data. Always use encryption and sanitize your test machine between tests. Never hand out USB sticks with test reports out at security conferences. And whatever you do, don’t re-use a report from another customer engagement as a template! It’s very unprofessional to leave references to another organization in your document.&lt;/p&gt;
+
+&lt;p&gt;2.18.4 Regular Status Meetings
+Throughout the testing process it is critical to have regular meetings with the customer informing them of the overall progress of the test. These meetings should be held daily and should be as short as possible. Meetings should be kept to three concepts: plans, progress and problems. Plans are generally discussed so that testing is not conducted during a major unscheduled change or an outage. Progress is simply an update to the customer on what has been completed so far. Problems should also be discussed in this meeting, but in the interest of brevity, conversations concerning solutions should almost always be taken offline&lt;/p&gt;
+
+&lt;p&gt;2.18.5 Time of the Day to Test
+Certain customers require all testing to be done outside of business hours. This can mean late nights for most testers. The time of day requirements should be well established with the customer before testing begins.&lt;/p&gt;
+
+&lt;p&gt;2.18.6 Dealing with Shunning&lt;/p&gt;
+
+&lt;p&gt;2.18.7 Permission to Test 
+One of the most important documents which need to be obtained for a penetration test is the Permission to Test document. This document states the scope and contains a signature which acknowledges awareness of the activities of the testers.&lt;/p&gt;
+
+&lt;p&gt;2.18.8 Legal Considerations
+Some activities common in penetration tests may violate local laws. For this reason, it is advised to check the legality of common pentest tasks in the location where the work is to be performed. For example,any VOIP calls captured in the course of the penetration test may be considered wiretapping in some areas.&lt;/p&gt;
+
+&lt;h3 id=&quot;219-capabilities-and-technology-in-place&quot;&gt;2.19 Capabilities and Technology in Place&lt;/h3&gt;
+
+&lt;p&gt;Good penetration tests do not simply check for un-patched systems. They also test the capabilities of the target organization. To that end, below is a list of things that you can benchmark while testing.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ability to detect and respond to information gathering&lt;/li&gt;
+  &lt;li&gt;Ability to detect and respond to foot printing&lt;/li&gt;
+  &lt;li&gt;Ability to detect and respond to scanning and vuln analysis&lt;/li&gt;
+  &lt;li&gt;Ability to detect and respond to infiltration (attacks)&lt;/li&gt;
+  &lt;li&gt;Ability to detect and respond to data aggregation&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ability to detect and respond to data ex-filtration&lt;/p&gt;
+
+    &lt;p&gt;When tracking this information be sure to collect time information. For example, if a scan is detected you should be notified and note what level of scan you were preforming at the time.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;0x03-intelligence-gathering&quot;&gt;0x03 Intelligence Gathering&lt;/h2&gt;
+
+&lt;h3 id=&quot;31-general&quot;&gt;3.1 General&lt;/h3&gt;
+
+&lt;p&gt;Levels are an important concept for this document and for PTES as a whole. It’s a maturity model of sorts for
+pentesting. Defining levels allows us to clarify the expected output and activities within certain real-world constraints
+such as time, effort, access to information, etc.&lt;/p&gt;
+
+&lt;p&gt;Level 1 Information Gathering
+(think: Compliance Driven) Mainly a click-button information gathering process. This level of information can be
+obtained almost entirely by automated tools. Bare minimum to say you did IG for a PT.&lt;/p&gt;
+
+&lt;p&gt;Level 2 Information Gathering
+(think: Best Practice) This level can be created using automated tools from level 1 and some manual analysis. A good
+understanding of the business, including information such as physical location, business relationships, org chart, etc.&lt;/p&gt;
+
+&lt;p&gt;Level 3 Information Gathering
+(think: State Sponsored) More advanced pentest, Redteam, full-scope. All the info from level 1 and level 2 along with
+a lot of manual analysis. An Army Red Team is tasked to analyze and attack a segment of the Army’s network in a foreign country to find weaknesses that could be exploited by a foreign national. A level 3 information gathering effort would be appropriate in this case.&lt;/p&gt;
+
+&lt;h3 id=&quot;32-intelligence-gathering&quot;&gt;3.2 Intelligence Gathering&lt;/h3&gt;
+
+&lt;p&gt;3.2.1 What it is 
+Intelligence Gathering is performing reconnaissance against a target to gather as much information as possible to be
+utilized when penetrating the target during the vulnerability assessment and exploitation phases. The more information
+you are able to gather during this phase, the more vectors of attack you may be able to use in the future.
+Open source intelligence (OSINT) is a form of intelligence collection management that involves finding, selecting,
+and acquiring information from publicly available sources and analyzing it to produce actionable intelligence. 1
+3.2.2 Why do it 
+We perform Open Source Intelligence gathering to determine various entry points into an organization. These entry
+points can be physical, electronic, and/or human. Many companies fail to take into account what information about
+themselves they place in public and how this information can be used by a determined attacker. On top of that many
+employees fail to take into account what information they place about themselves in public and how that information
+can be used to to attack them or their employer.
+3.2.3 What is it not 
+OSINT may not be accurate or timely. The information sources may be deliberately/accidentally manipulated to reflect
+erroneous data, information may become obsolete as time passes, or simply be incomplete.
+It does not encompass dumpster-diving or any methods of retrieving company information off of physical items found
+on-premises.&lt;/p&gt;
+
+&lt;h3 id=&quot;33-target-selection&quot;&gt;3.3 Target Selection&lt;/h3&gt;
+
+&lt;p&gt;3.3.1 Identification and Naming of Target 
+It is also not all that uncommon for a company to have a number of sub-companies underneath them. For example General Electric and Proctor and Gamble own a great deal of smaller companies.&lt;/p&gt;
+
+&lt;p&gt;3.3.2 Consider any Rules of Engagement limitations 
+3.3.3 Consider time length for test 
+3.3.4 Consider end goal of the test
+Every test has an end goal in mind - a particular asset or process that the organization considers critical. Having the
+end result in mind, the intelligence gathering phase should make sure to include all secondary and tertiary elements
+surrounding the end goal. Be it supporting technologies, 3rd parties, relevant personnel, etc… Making sure the focus
+is kept on the critical assets assures that lesser relevant intelligence elements are de-prioritized and categorized as such
+in order to not intervene with the analysis process.&lt;/p&gt;
+
+&lt;h3 id=&quot;34-osint&quot;&gt;3.4 OSINT&lt;/h3&gt;
+
+&lt;p&gt;Open Source Intelligence (OSINT) takes three forms; Passive, Semi-passive, and Active.&lt;/p&gt;
+
+&lt;h3 id=&quot;35-covert-gathering&quot;&gt;3.5 Covert Gathering&lt;/h3&gt;
+
+&lt;h3 id=&quot;36-footprinting&quot;&gt;3.6 Footprinting&lt;/h3&gt;
+
+&lt;h3 id=&quot;37-identify-protection-mechanisms&quot;&gt;3.7 Identify Protection Mechanisms&lt;/h3&gt;
+
+&lt;h2 id=&quot;0x04-threat-modeling&quot;&gt;0x04 Threat Modeling&lt;/h2&gt;
+
+&lt;h3 id=&quot;41-general&quot;&gt;4.1 General&lt;/h3&gt;
+
+&lt;p&gt;The standard focuses on two key elements of traditional threat modeling - assets and attacker (threat community/agent). Each one is respectively broken down into business assets and business processes and the threat communities and their capabilities.&lt;/p&gt;
+
+&lt;p&gt;As a minimum, all four elements should be clearly identified and documented in every penetration test.&lt;/p&gt;
+
+&lt;p&gt;The model should be clearly documented, and be delivered as part of the final report as the findings in the report will reference the threat model in order to create a more accurate relevance and risk score that is specific to the organization (rather than a generic technical one).&lt;/p&gt;
+
+&lt;p&gt;4.1.1 High level threat modeling process
+    1. Gather relevant documentation
+    2. Identify and categorize primary and secondary assets
+    3. Identify and categorize threats and threat communities
+    4. Map threat communities against primary and secondary assets&lt;/p&gt;
+
+&lt;p&gt;There are a variety of tools available to identify targets and map attack vectors. These normally focus on the business assets (what systems to target) and business processes (how to attack them.)&lt;/p&gt;
+
+&lt;h3 id=&quot;42-business-asset-analysis&quot;&gt;4.2 Business Asset Analysis&lt;/h3&gt;
+
+&lt;p&gt;4.2.1 Organizational Data
+Policies, Plans, and Procedures
+Product Information (e.g. trade secrets, R&amp;amp;D data) 
+Marketing Information (plans, roadmaps, etc.) 
+Financial Information (e.g. bank, credit, equity accounts) 
+Technical Information 
+    • Infrastructure Design Information 
+    • System Configuration Information 
+    • User Account Credentials 
+    • Privileged User Account Credentials&lt;/p&gt;
+
+&lt;p&gt;Employee Data 
+Customer Data&lt;/p&gt;
+
+&lt;p&gt;4.2.2 Human Assets 
+    • Executive Management
+    • Executive Assistants
+    • Middle Management
+    • Administrative Assistants
+    • Technical/Team Leads
+    • Engineers
+    • Technicians
+    • Human Resources&lt;/p&gt;
+
+&lt;h3 id=&quot;43-business-process-analysis&quot;&gt;4.3 Business Process Analysis&lt;/h3&gt;
+
+&lt;p&gt;By mapping these processes, identifying the critical vs. non-critical processes and eventually finding flaws in them we are able to understand how the business works, what makes them money and eventually how specific threat communities can make them lose money.&lt;/p&gt;
+
+&lt;p&gt;4.3.1 Technical infrastructure supporting process
+As business processes are usually supported by IT infrastructure (such as computer networks, processing power, PCs for entering information and managing the business process, etc…), all those elements must be identified and mapped. Such mapping should be clear enough to be used later on in the process when translating the threat model to the vulnerability mapping and exploitation.&lt;/p&gt;
+
+&lt;p&gt;4.3.2 Information assets supporting process 
+4.3.3 Human assets supporting process 
+4.3.4 3rd party integration and/or usage of/by process&lt;/p&gt;
+
+&lt;h3 id=&quot;44-threat-agentscommunity-analysis&quot;&gt;4.4 Threat Agents/Community Analysis&lt;/h3&gt;
+
+&lt;h3 id=&quot;45-threat-capability-analysis&quot;&gt;4.5 Threat Capability Analysis&lt;/h3&gt;
+
+&lt;h3 id=&quot;46-motivation-modeling&quot;&gt;4.6 Motivation Modeling&lt;/h3&gt;
+
+&lt;h2 id=&quot;0x05-vulnerability-analysis&quot;&gt;0x05 Vulnerability Analysis&lt;/h2&gt;
+
+&lt;h3 id=&quot;51-testing&quot;&gt;5.1 Testing&lt;/h3&gt;
+
+&lt;p&gt;Vulnerability testing is the process of discovering flaws in systems and applications which can be leveraged by an attacker. These flaws can range anywhere from host and service misconfiguration, or insecure application design.Although the process used to look for flaws varies and is highly dependent on the particular component being tested, some key principals apply to the process.&lt;/p&gt;
+
+&lt;p&gt;When conducting vulnerability analysis of any type the tester should properly scope the testing for applicable depth
+and breadth to meet the goals and/or requirements of the desired outcome. Depth values can include such things as
+the location of an assessment tool, authentication requirements, etc. For example; in some cases it maybe the goal of
+the test to validate mitigation is in place and working and the vulnerability is not accessible; while in other instances
+the goal maybe to test every applicable variable with authenticated access in an effort to discover all applicable vulnerabilities. Whatever your scope, the testing should be tailored to meet the depth requirements to reach your goals.
+Depth of testing should always be validated to ensure the results of the assessment meet the expectation (i.e. did all
+the machines authenticate, etc.). In addition to depth, breadth must also be taken into consideration when conducting
+vulnerability testing. Breadth values can include things such as target networks, segments, hosts, application, inventories, etc. At its simplest element, your testing may be to find all the vulnerabilities on a host system; while in other
+instances you may need to find all the vulnerabilities on hosts with in a given inventory or boundary. Additionally
+breadth of testing should always be validated to ensure you have met your testing scope (i.e. was every machine in the
+inventory alive at the time of scanning? If not, why).&lt;/p&gt;
+
+&lt;h3 id=&quot;52-active&quot;&gt;5.2 Active&lt;/h3&gt;
+
+&lt;p&gt;There are two distinct ways to interact with the target component: automated, and manual.&lt;/p&gt;
+
+&lt;p&gt;Automated
+Automated testing utilizes software to interact with a target, examine responses, and determine whether a vulnerability exists based on those responses.&lt;/p&gt;
+
+&lt;p&gt;Network/General Vulnerability Scanners
+Port Based 
+When the scanner determines that a port is open, a presumption is made by the scanner as to whether a vulnerability
+is present or not. For example, if a port based scanner connects to TCP port 23, and that port is listening, the scanner
+is likely to report that the telnet service is available on the remote host, and flag it as having a clear text authentication
+protocol enabled.&lt;/p&gt;
+
+&lt;p&gt;Service Based&lt;/p&gt;
+
+&lt;p&gt;Banner Grabbing&lt;/p&gt;
+
+&lt;p&gt;Web Application Scanners
+General application flaw scanners 
+Most web application scans start with the address of a website, web application, or web service. The scanner then crawls the site by following links and directory structures. After compiling a list of webpages, resources, services and/or other media offered, the scanner will perform tests, or audits against the results of the crawl. For example, if a webpage discovered in the crawl has form fields, the scanner might attempt SQL injection or cross-site scripting. If the crawled page contained errors, the scanner might look for sensitive information displayed in the error detail, and so on.&lt;/p&gt;
+
+&lt;p&gt;Directory Listing/Brute Forcing&lt;/p&gt;
+
+&lt;p&gt;Web Server Version/Vulnerability Identification 
+Methods 
+OPTIONS 
+PUT/DELETE 
+TRACE/TRACK&lt;/p&gt;
+
+&lt;p&gt;Network Vulnerability Scanners/Specific Protocols 
+VPN 
+Voice Network Scanners
+War Dialing 
+VoIP&lt;/p&gt;
+
+&lt;p&gt;Manual Direct Connections 
+As with any automated process or technology, the margin for error always exists. Instabilities in systems, network
+devices and network connectivity may introduce inaccurate results during testing. It is always recommended to execute
+manual direct connections to each protocol or service available on a target system to validate the results of automated
+testing as well as identifying all potential attack vectors and previously unidentified weaknesses.&lt;/p&gt;
+
+&lt;p&gt;Obfuscated 
+Multiple Exit Nodes
+Security monitoring and defense systems operate under the pretense of identifying malicious activity from a specific
+IP address. In situations where Intrusion Detection systems are deployed and monitoring activity, sourcing assessment
+and attack activities from multiple IP addresses provide more accurate results and lessen the opportunity for a monitoring device on a target network to identify and respond.&lt;/p&gt;
+
+&lt;p&gt;IDS Evasion
+When conducting assessment activities against a target environment where IDS technologies are deployed, it may
+be necessary to perform evasion. Using methods such as string manipulation, polymorphism, session splicing, and
+fragmentation can provide more accurate results while bypassing signature matching patterns implemented in IDS devices.&lt;/p&gt;
+
+&lt;h3 id=&quot;53-passive&quot;&gt;5.3 Passive&lt;/h3&gt;
+
+&lt;p&gt;Metadata Analysis 
+Though metadata is quite common on documents located on a company’s internal network, companies should take care to purge metadata before making documents available to the public, or on the public Internet. For this reason, any metadata an attacker could gain access to passively (without directly attacking the target) should be considered a security issue.&lt;/p&gt;
+
+&lt;p&gt;Traffic Monitoring&lt;/p&gt;
+
+&lt;h3 id=&quot;54-validation&quot;&gt;5.4 Validation&lt;/h3&gt;
+
+&lt;p&gt;Correlation between Tools 
+When working with multiple tools the need for correlation of findings can become complicated. Correlation can be
+broken down into two distinct styles, specific and categorical correlation of items, both are useful based on the type of
+information, metrics and statistics you are trying to gather on a given target.&lt;/p&gt;
+
+&lt;p&gt;Manual Testing/Protocol Specific&lt;/p&gt;
+
+&lt;p&gt;Attack Avenues
+Creation of attack trees 
+During a security assessment, it is crucial to the accuracy of the final report to develop an attack tree as testing
+progresses throughout the engagement. As new systems, services and potential vulnerabilities are identified; an attack
+tree should be developed and regularly updated. This is especially important during the exploitation phases of the
+engagement as one point of entry that materializes could be repeated across other vectors mapped out during the
+development of the attack tree.&lt;/p&gt;
+
+&lt;p&gt;Isolated Lab Testing
+The accuracy of vulnerability analysis and exploitation is substantially greater when replicated environments are setup
+in an isolated lab. Often times, systems may be hardened with specific control sets or additional protection mechanisms. By designing a lab that mimics that of the target organization, the consultant can ensure that the vulnerabilities
+identified and exploits attempted against the desired targets are reliable and lessen the opportunity for inaccurate results
+or system inoperability.&lt;/p&gt;
+
+&lt;p&gt;Visual Confirmation
+Manual Connection with Review&lt;/p&gt;
+
+&lt;h3 id=&quot;55-research&quot;&gt;5.5 Research&lt;/h3&gt;
+
+&lt;p&gt;Public Research 
+Vulnerability Databases 
+Vendor Advisories&lt;/p&gt;
+
+&lt;p&gt;Exploit Databases and Framework Modules 
+Common/default Passwords 
+Hardening Guides/Common Misconfigurations&lt;/p&gt;
+
+&lt;p&gt;Private Research
+Setting up a replica environment
+Testing Configurations&lt;/p&gt;
+
+&lt;p&gt;Fuzzing
+Fuzzing, or fault injection, is a brute-force technique for finding application flaws by programmatically submitting
+valid, random or unexpected input to the application. The basic process involves attaching a debugger to the target
+application, and then running the fuzzing routine against specific areas of input and then analyzing the program state
+following any crashes. Many fuzzing applications are available, although some testers write their own fuzzers for
+specific targets.&lt;/p&gt;
+
+&lt;p&gt;Identifying potential avenues/vectors
+Log in or connect to a target network application to identify commands and other areas of input. If the target is a
+desktop application that reads files and/or web pages, analyze the accepted file formats for avenues of data input.
+Some simple tests involve submitting invalid characters, or very long strings of characters to cause a crash. Attach a
+debugger to analyze the program state in the event of a successful crash.&lt;/p&gt;
+
+&lt;p&gt;Disassembly and code analysis
+Some programming languages allow for decompilation, and some specific applications are compiled with symbols for
+debugging. A tester can take advantage of these features to analyze program flow and identify potential vulnerabilities.
+Source code for open source applications should be analyzed for flaws. Web applications written in PHP share many
+of the same vulnerabilities, and their source code should be examined as part of any test.&lt;/p&gt;
+
+&lt;h2 id=&quot;0x06-exploitation&quot;&gt;0x06 Exploitation&lt;/h2&gt;
+
+&lt;h3 id=&quot;61-purpose&quot;&gt;6.1 Purpose&lt;/h3&gt;
+
+&lt;p&gt;The exploitation phase of a penetration test focuses solely on establishing access to a system or resource by bypassing security restrictions. If the prior phase, vulnerability analysis was performed properly, this phase should be well planned and a precision strike.. The main focus is to identify the main entry point into the organization and to identify
+high value target assets.
+If the vulnerability analysis phase was properly completed, a high value target list should have been complied. Ultimately the attack vector should take into consideration the success probability and highest impact on the organization.&lt;/p&gt;
+
+&lt;h3 id=&quot;62-countermeasures&quot;&gt;6.2 Countermeasures&lt;/h3&gt;
+
+&lt;p&gt;Countermeasures are defined as preventative technology or controls that hinder the ability to successfully complete an
+exploit avenue. This technology could be a Host Based Intrusion Prevention System, Security Guard, Web Application
+Firewall, or other preventative methods. When performing an exploit, several factors should be taken into consideration.&lt;/p&gt;
+
+&lt;p&gt;6.2.1 Anti-Virus 
+Encoding / Packing / Encrypting  / Whitelist Bypass  / Process Injection  / Purely Memory Resident&lt;/p&gt;
+
+&lt;p&gt;6.2.2 Human 
+6.2.3 Data Execution Prevention (DEP) 
+6.2.4 Address Space Layout Randomization 
+6.2.5 Web Application Firewall (WAF)&lt;/p&gt;
+
+&lt;h3 id=&quot;63-evasion&quot;&gt;6.3 Evasion&lt;/h3&gt;
+
+&lt;p&gt;Evasion is the technique used in order to escape detection during a penetration test. This could be circumventing a
+camera system as to not be seen by a guard, obfuscating your payloads to evade Intrusion Detection Systems (IDS) or
+Intrusion Prevention Systems (IPS) or encoding requests/responses to circumvent web application firewalls. Overall,
+the need to identify a low risk scenario for evading a technology or person should be formulated prior to the exploit.&lt;/p&gt;
+
+&lt;h3 id=&quot;64-precision-strike&quot;&gt;6.4 Precision Strike&lt;/h3&gt;
+
+&lt;p&gt;The main focus of a penetration test is to simulate an attacker in order to represent a simulated attack against the
+organization. The value brought through a penetration test is generally not through smash and grab techniques where
+the attacks are noisy in nature and in an attempt to try every exploit. This approach may be particularly useful at the
+end of a penetration test to gauge the level of incident response from the organization, but in most cases the exploitation
+phase is a accumulation of specific research on the target.&lt;/p&gt;
+
+&lt;h3 id=&quot;65-customized-exploitation-avenue&quot;&gt;6.5 Customized Exploitation Avenue&lt;/h3&gt;
+
+&lt;p&gt;Every attack will typically not be the same in how the exploitation avenue occurs. In order to be successful in this
+phase, the attack should be tailored and customized based on the scenario. For example, if a wireless penetration test
+is occurred, and a specific technology is in use, these need to be identified and attacked based on what technologies are
+in place. Having a clear understanding of each scenario and the applicability of an exploit is one of the most important
+aspects of this phase of the penetration test.&lt;/p&gt;
+
+&lt;h3 id=&quot;66-tailored-exploits&quot;&gt;6.6 Tailored Exploits&lt;/h3&gt;
+
+&lt;p&gt;The penetration tester should have the knowledge in place to be able to customize an exploit and the ability to change on the fly in order to successfully complete the attack.&lt;/p&gt;
+
+&lt;p&gt;6.6.1 Exploit Customization 
+A common theme for exploits is to target specific versions of operating systems or applications.&lt;/p&gt;
+
+&lt;h3 id=&quot;67-zero-day-angle&quot;&gt;6.7 Zero-Day Angle&lt;/h3&gt;
+
+&lt;p&gt;This type of attack often represents a highly advanced organization that can handle a focused attack against the organization through normal attack methods. In certain scenarios research may be conducted in order to reverse engineer, fuzz, or perform advanced discovery of vulnerabilities that have not been discovered.&lt;/p&gt;
+
+&lt;p&gt;6.7.1 Fuzzing 
+6.7.2 Source Code Analysis 
+6.7.3 Types of Exploits 
+Buffer Overflows / SEH Overwrites (structured exception handler ) / Return Oriented Programming 
+6.7.4 Traffic Analysis 
+6.7.5 Physical Access 
+Human Angle  / PC Access 
+6.7.6 Proximity Access (WiFi) 
+WiFi Attacks / Attacking the User 
+There are several common techniques in use of this, but most commonly the attacker would setup a wireless access point with the same name or an enticing name in order for the victim to connect.&lt;/p&gt;
+
+&lt;h3 id=&quot;68-example-avenues-of-attack&quot;&gt;6.8 Example Avenues of Attack&lt;/h3&gt;
+
+&lt;p&gt;Web Application Attacks 
+Social-Engineering 
+Physical Attack Avenues 
+Memory Based Exploits (i.e. buffer/heap overflows, memory corruptions, use-after-free). 
+Man in the Middle 
+VLAN Hopping 
+USB/Flash Drive deployment 
+Reverse Engineering 
+Zero-Day Angle 
+Attacking the user 
+Encryption Cracking 
+Graphics Processing Unit (GPU) Cracking 
+Traffic Analysis 
+Firewire Routing protocols 
+Phishing with Pretexting 
+Employee Impersonation&lt;/p&gt;
+
+&lt;h3 id=&quot;69-overall-objective&quot;&gt;6.9 Overall Objective&lt;/h3&gt;
+
+&lt;p&gt;In the pre-engagement interaction phase with the customer, a clear definition of the overall objectives of the penetration
+test should have been communicated. In the case of the exploitation phase, the biggest challenge is identifying the
+least path of resistance into the organization without detection and having the most impact on the organizations ability
+to generate revenue.
+By performing the prior phases properly, a clear understanding of how the organization functions and makes money
+should be relatively understood. From the exploitation phase and into the post-exploitation phase, the attack vectors
+should rely solely on the mission of circumventing security controls in order to represent how the organization can
+suffer substantial losses through a targeted attack against the organization.&lt;/p&gt;
+
+&lt;h2 id=&quot;0x07-post-exploitation&quot;&gt;0x07 Post Exploitation&lt;/h2&gt;
+
+&lt;h3 id=&quot;71-purpose&quot;&gt;7.1 Purpose&lt;/h3&gt;
+
+&lt;p&gt;The purpose of the Post-Exploitation phase is to determine the value of the machine compromised and to maintain
+control of the machine for later use. The value of the machine is determined by the sensitivity of the data stored on
+it and the machines usefulness in further compromising the network. The methods described in this phase are meant
+to help the tester identify and document sensitive data, identify configuration settings, communication channels, and
+relationships with other network devices that can be used to gain further access to the network, and setup one or more
+methods of accessing the machine at a later time. In cases where these methods differ from the agreed upon Rules of
+Engagement, the Rules of Engagement must be followed.&lt;/p&gt;
+
+&lt;h3 id=&quot;72-rules-of-engagement&quot;&gt;7.2 Rules of Engagement&lt;/h3&gt;
+
+&lt;p&gt;7.2.1 Protect the Client 
+Unless previously agreed upon, there will be no modification of services which the client deems “critical” to their infrastructure.
+All modifications, including configuration changes, executed against a system must be documented. 
+。。。&lt;/p&gt;
+
+&lt;p&gt;7.2.2 Protecting Yourself 
+Ensure that the contract and/or statement of work signed by both the client and provider that the actions taken on the systems being tested are on behalf and in representation of the client. 
+。。。&lt;/p&gt;
+
+&lt;h3 id=&quot;73-infrastructure-analysis&quot;&gt;7.3 Infrastructure Analysis&lt;/h3&gt;
+
+&lt;p&gt;7.3.1 Network Configuration 
+7.3.2 Network Services&lt;/p&gt;
+
+&lt;h3 id=&quot;74-pillaging&quot;&gt;7.4 Pillaging&lt;/h3&gt;
+
+&lt;p&gt;Pillaging refers to obtaining information (i.e. files containing personal information, credit card information, passwords,
+etc.) from targeted hosts relevant to the goals defined in the pre-assessment phase. This information could be obtained
+for the purpose of satisfying goals or as part of the pivoting process to gain further access to the network. The location
+of this data will vary depending on the type of data, role of the host and other circumstances. Knowledge and basic
+familiarity with commonly used applications, server software and middleware is very important, as most applications
+store their data in many different formats and locations. Special tools may be necessary to obtain, extract or read the
+targeted data from some systems.&lt;/p&gt;
+
+&lt;p&gt;7.4.1 Installed Programs 
+• List of the applications and their associated versions installed on the system.
+• List of operating system updates applied to the system.&lt;/p&gt;
+
+&lt;p&gt;7.4.2 Installed Services
+Services on a particular host may serve the host itself, or other hosts in the target network. It is necessary to create a
+profile of each targeted host, noting the configuration of these services, their purpose, and how they may potentially
+be used to achieve assessment goals or further penetrate the network.&lt;/p&gt;
+
+&lt;p&gt;（Security Services；File/Printer Shares ；Database Servers ；Directory Servers ；Name Servers ；Deployment Services ；Certificate Authority ；Source Code Management Server ；Dynamic Host Configuration Server ；Dynamic Host Configuration Server （DHCP）；Virtualization ；Messaging ；Monitoring and Management ；Backup Systems ；Networking Services (RADIUS,TACACS..etc) ）&lt;/p&gt;
+
+&lt;p&gt;7.4.3 Sensitive Data 
+（Key-logging ；Screen capture ；Network traffic capture ；Previous Audit reports ）&lt;/p&gt;
+
+&lt;p&gt;7.4.4 User Information 
+In this section the main focus is on the information present on the target system related to user accounts either present
+on the system or that have connected remotely and have left some trace that the personnel performing the assessment
+can gather and analyze for further penetration or provide the desired goal of the assessment.&lt;/p&gt;
+
+&lt;p&gt;On System
+General information that can be gather on a compromised system are: 
+• History files ；
+• Encryption Keys (SSH, PGP/GPG) ；
+• Interesting Documents (.doc/x, .xls/x , password.*) ；
+• User specific application configuration parameters
+• Individual Application History (MRU Windows only, history files..etc)
+• Enumerate removable media
+• Enumerate network shares / domain permission (gpresult)&lt;/p&gt;
+
+&lt;p&gt;Web Browsers&lt;/p&gt;
+
+&lt;p&gt;IM Clients 
+• Enumerate Account Configuration (User, Password, Server, Proxy)
+• Chat Logs&lt;/p&gt;
+
+&lt;p&gt;7.4.5 System Configuration
+Password Policy 
+Security Policies
+Configured Wireless Networks and Keys&lt;/p&gt;
+
+&lt;h3 id=&quot;75-high-valueprofile-targets&quot;&gt;7.5 High Value/Profile Targets&lt;/h3&gt;
+
+&lt;h3 id=&quot;76-data-exfiltration&quot;&gt;7.6 Data Exfiltration&lt;/h3&gt;
+
+&lt;p&gt;7.6.1 Mapping of all possible exfiltration paths 
+7.6.2 Testing exfiltration paths 
+7.6.3 Measuring control strengths&lt;/p&gt;
+
+&lt;h3 id=&quot;77-persistence&quot;&gt;7.7 Persistence&lt;/h3&gt;
+
+&lt;p&gt;• Installation of backdoor that requires authentication.
+• Installation and/or modification of services to connect back to system. User and complex password should be
+used as a minimum; use of certificates or cryptographic keys is preferred where possible. (SSH, ncat, RDP).
+Reverse connections limited to a single IP may be used.
+• Creation of alternate accounts with complex passwords.
+• When possible backdoor must survive reboots.&lt;/p&gt;
+
+&lt;h3 id=&quot;78-further-penetration-into-infrastructure&quot;&gt;7.8 Further Penetration Into Infrastructure&lt;/h3&gt;
+
+&lt;p&gt;7.8.1 From Compromised System
+Actions that can be taken from a compromised system:
+• Upload tools
+• Use local system tools
+• ARP Scan
+• Ping Sweep
+• DNS Enumeration of internal network
+• Directory Services Enumeration
+• Brute force attacks
+• Enumeration and Management thru Management Protocols and compromised credentials (WinRM, WMI, SMB, SNMP..etc)
+• Abuse of compromised credentials and keys (Webpages, Databases..etc)
+• Execute Remote Exploits&lt;/p&gt;
+
+&lt;p&gt;7.8.2 Thru Compromised System
+Actions that can be taken thru a compromised system:
+• Port Forwarding
+• Proxy to internal network (SSH)
+• VPN to internal network
+• Execute Remote Exploit
+• Abuse of compromised credentials and keys (Webpages, Databases..etc)&lt;/p&gt;
+
+&lt;h3 id=&quot;79-cleanup&quot;&gt;7.9 Cleanup&lt;/h3&gt;
+
+&lt;p&gt;The cleanup process covers the requirements for cleaning up systems once the penetration test has been completed.
+This will include all user accounts and binaries used during the test.
+• Remove all executable, scripts and temporary file from a compromised system. If possible use secure delete
+method for removing the files and folders.
+• Return to original values system settings and application configuration parameters if they where modified during
+the assessment.
+• Remove all backdoors and/or rootkits installed.
+• Remove any user accounts created for connecting back to compromise systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;0x08-reporting&quot;&gt;0x08 Reporting&lt;/h2&gt;
+
+&lt;h3 id=&quot;82-report-structure&quot;&gt;8.2 Report Structure&lt;/h3&gt;
+
+&lt;p&gt;The report is broken down into two (2) major sections in order to communicate the objectives, methods, and results of
+the testing conducted to various audiences.&lt;/p&gt;
+
+&lt;h3 id=&quot;83-the-executive-summary&quot;&gt;8.3 The Executive Summary&lt;/h3&gt;
+
+&lt;p&gt;Background: 
+Overall Posture: 
+Risk Ranking/Profile: 
+General Findings: 
+Recommendation Summary: 
+Strategic Roadmap:&lt;/p&gt;
+
+&lt;h3 id=&quot;84-technical-report&quot;&gt;8.4 Technical Report&lt;/h3&gt;
+
+&lt;p&gt;Introduction:
+The introduction section of the technical report is intended to be an initial inventory of:
+• Personnel involved in the testing from both the Client and Penetration Testing Team
+• Contact information
+• Assets involved in testing
+• Objectives of Test
+• Scope of Test
+• Strength of Test
+• Approach
+• Threat/Grading Structure&lt;/p&gt;
+
+&lt;p&gt;Information Gathering:&lt;/p&gt;
+
+&lt;p&gt;Vulnerability Assessment:&lt;/p&gt;
+
+&lt;p&gt;Exploitation/ Vulnerability Confirmation:&lt;/p&gt;
+
+&lt;p&gt;Post Exploitation:&lt;/p&gt;
+
+&lt;p&gt;Post Exploitation: 
+• Privilege Escalation path
+– Technique used
+• Acquisition of Critical Information Defined by client
+• Value of information
+• Access to core business systems
+• Access to compliance protected data sets
+• Additional Information/Systems Accessed
+• Ability of persistence
+• Ability for exfiltration
+• Countermeasure Effectiveness&lt;/p&gt;
+
+&lt;p&gt;Risk/Exposure:&lt;/p&gt;
+
+&lt;p&gt;Conclusion:&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0800</pubDate>
+        <link>http://hackerspirit.org/2019/06/21/PTES%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html</link>
+        <guid isPermaLink="true">http://hackerspirit.org/2019/06/21/PTES%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html</guid>
+        
+        
+        <category>网络安全</category>
+        
+      </item>
+    
+  </channel>
+</rss>
