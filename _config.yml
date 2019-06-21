@@ -4,7 +4,7 @@ email: shuimuyq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hackerspirit
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://hackerspirit.org # the base hostname & protocol for your site
+url: https://willalways.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Hackerspirit
 

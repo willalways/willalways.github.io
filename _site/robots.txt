@@ -1,1 +1,1 @@
-Sitemap: http://hackerspirit.org/sitemap.xml
+Sitemap: https://willalways.github.io/sitemap.xml
