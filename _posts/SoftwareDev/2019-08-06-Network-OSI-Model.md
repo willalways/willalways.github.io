@@ -101,7 +101,7 @@ The most important distinction in the application layer is the distinction betwe
 
 
 ## 引用
-1 [https://en.wikipedia.org/wiki/OSI_model](https://en.wikipedia.org/wiki/OSI_model)
-2 [ethernet_protocol](http://teachweb.milin.cc/datacommunicatie/tcp_osi_model/data_link_layer/ethernet_protocol.htm)
-3 [Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-4 《数据通信与网络》（美）Behrouz A.Forouzan 
+1 [https://en.wikipedia.org/wiki/OSI_model](https://en.wikipedia.org/wiki/OSI_model) <br>
+2 [ethernet_protocol](http://teachweb.milin.cc/datacommunicatie/tcp_osi_model/data_link_layer/ethernet_protocol.htm) <br>
+3 [Internet_protocol_suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) <br>
+4 《数据通信与网络》（美）Behrouz A.Forouzan <br>
