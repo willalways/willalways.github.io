@@ -54,6 +54,7 @@ Logical link control (LLC) layer – responsible for identifying and encapsulati
 
 我们通过wireshark抓包看到，所有数据包都是以源MAC地址开始的，实际上，真正传输的数据包应该还有一层封装，我们看到的其实是数据链路层的帧
 以IEEE 802.3 Frame Fields为例
+
 |Preamble|Destination Address|Source Address|Length|802.2 Header and Data|Frame Check Sequence|
 |-|-|-|-|-|-|
 |8 bytes|6 bytes|6 bytes|2 bytes|46 - 1500 bytes|4 bytes|
